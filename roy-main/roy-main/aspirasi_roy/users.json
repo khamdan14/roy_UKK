@@ -1,0 +1,62 @@
+{
+    "admin": [
+        {
+            "username": "roy_admin",
+            "password": "123"
+        },
+        {
+            "username": "roy_adminn",
+            "password": "111"
+        },
+        {
+            "username": "admin_123",
+            "password": "111"
+        },
+        {
+            "username": "admin_12",
+            "password": "111"
+        },
+        {
+            "username": "royfiridho",
+            "password": "123"
+        },
+        {
+            "username": "firidho",
+            "password": "123"
+        },
+        {
+            "username": "nadjib_admin",
+            "password": "111"
+        }
+    ],
+    "user": [
+        {
+            "username": "user_roy",
+            "password": "123"
+        },
+        {
+            "username": "user_royy",
+            "password": "123"
+        },
+        {
+            "username": "user_royyy",
+            "password": "123"
+        },
+        {
+            "username": "royfiridho",
+            "password": "123"
+        },
+        {
+            "username": "nadjib",
+            "password": "111"
+        },
+        {
+            "username": "pakmundir",
+            "password": "123"
+        },
+        {
+            "username": "royy",
+            "password": "111"
+        }
+    ]
+}

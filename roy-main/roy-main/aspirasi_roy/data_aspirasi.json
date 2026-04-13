@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nama": "roy",
+        "akun": "user_roy",
+        "gambar": "Screenshot_2026-02-10_102803.png",
+        "deskripsi": "error",
+        "status": "Diterima",
+        "bukti": "Screenshot_2026-02-10_102803.png",
+        "tanggal": "26-02-2026 10:18",
+        "feedback": "sudah selesai",
+        "history": true
+    },
+    {
+        "id": 2,
+        "nama": "bondet",
+        "akun": "nadjib",
+        "gambar": "download.jpg",
+        "deskripsi": "tolong benerkan",
+        "status": "Diterima",
+        "bukti": "download_1.jpg",
+        "tanggal": "03-03-2026 10:54",
+        "feedback": "sudah selesai",
+        "history": true
+    },
+    {
+        "id": 3,
+        "nama": "riski",
+        "akun": "nadjib",
+        "gambar": "download_2.jpg",
+        "deskripsi": "jembatan nya rusak",
+        "status": "Diterima",
+        "bukti": "download_3.jpg",
+        "tanggal": "03-03-2026 10:55",
+        "feedback": "keren bngt jembatan nya",
+        "history": true
+    },
+    {
+        "id": 4,
+        "nama": "wildan",
+        "akun": "nadjib",
+        "gambar": "2.jpg",
+        "deskripsi": "leptop nya rusak tolong ganti layar nya",
+        "status": "Menunggu",
+        "bukti": "",
+        "tanggal": "03-03-2026 10:56",
+        "feedback": "",
+        "history": true
+    },
+    {
+        "id": 5,
+        "nama": "sani",
+        "akun": "nadjib",
+        "gambar": "download_4.jpg",
+        "deskripsi": "tolong bnerkan mobil nya",
+        "status": "Menunggu",
+        "bukti": "",
+        "tanggal": "03-03-2026 10:57",
+        "feedback": "",
+        "history": true
+    },
+    {
+        "id": 6,
+        "nama": "arya",
+        "akun": "nadjib",
+        "gambar": "download_5.jpg",
+        "deskripsi": "pc saya rusak tolong benerkan",
+        "status": "Menunggu",
+        "bukti": "",
+        "tanggal": "03-03-2026 10:58",
+        "feedback": "",
+        "history": true
+    }
+]
